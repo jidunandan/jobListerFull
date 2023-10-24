@@ -1,0 +1,1 @@
+export const TROUBLE_MESSAGE = `We are experiencing technical difficulties.Please try again later.`

@@ -1,0 +1,16 @@
+
+.filter-company{
+    width: 95%;
+}   
+.filter-category,.filter-company{
+    flex:1;
+}
+.search-button{
+    float:right;
+}
+.search-text{
+    font-size: 2rem;
+}
+.search-form-row{
+    margin-bottom: 10px;
+}
