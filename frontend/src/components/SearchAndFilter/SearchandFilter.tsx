@@ -1,4 +1,3 @@
-import './joblist.css'
 import { SearchOutlined } from '@ant-design/icons';
 import { Input, Button, Select } from 'antd';
 import { Row, Col } from 'antd'
